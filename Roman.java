@@ -66,5 +66,6 @@ class Roman{
         	}
 
         System.out.println("The Integer Value is " + total);
+		sc.close();
     }
 }
